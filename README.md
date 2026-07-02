@@ -1,2 +1,2 @@
-# Resume-website
-How it helps you 
+# Resume:
+Resume build up through HTML and symmantic tags
